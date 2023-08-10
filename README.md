@@ -1,6 +1,6 @@
 # Sayac
 
-Süreye karşı yarış.
+Zamana karşı yarış.
 
 - Timer
 - UIAlertController
